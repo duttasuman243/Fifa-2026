@@ -1,0 +1,6 @@
+{
+  "name": "FIFA World Cup 2026 Match Schedule",
+  "description": "A comprehensive, high-fidelity scheduling portal adjusted dynamically to Indian Standard Time (IST) covering all 104 matches, groups standing, and knockout stages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
